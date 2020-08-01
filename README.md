@@ -1,6 +1,6 @@
 # Hi, I'm Filip Brebera
 
-I am 17 years old secondary school student of Information Technology. I mainly focus on web development with using Vue.js and Nuxt.js framework. 
+I am 18 years old secondary school student of Information Technology. I mainly focus on web development with using Vue.js and Nuxt.js framework. 
 
 ### Socials
 
