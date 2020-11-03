@@ -4,7 +4,7 @@
 
 ------
 
-Hi, I am 18 years old student of Information Technology. I mainly focus on front-end web development with Vue.js (Nuxt.js) and other Javascript frameworks. I also like developing mobile apps in Flutter and I know some backend and devops technologies too.
+Hi, I am 18 years old student of Information Technology. I mainly focus on front-end web development with Vue.js (Nuxt.js) and other Javascript frameworks. I also like developing mobile apps in Flutter and I have some experience with backend and devops technologies too.
 
 **For more information you can check my socials:** 
 
