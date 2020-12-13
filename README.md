@@ -1,6 +1,6 @@
 ## 
 
-[![Profile Banner](https://ghprofile.s3.eu-central-1.amazonaws.com/profile_banner.png)](https://linkedin.com/in/brebera)
+[![Profile Banner](https://ghprofile.s3.eu-central-1.amazonaws.com/profile_banner_new.png)](https://linkedin.com/in/brebera)
 
 ------
 
